@@ -20,6 +20,15 @@ page_sections:
   block: text-1
 - template: 3-column-text
   block: three-column-1
+  col_1:
+    headline: wefwefwefwef
+    content: wefwefwefwef
+  col_2:
+    headline: wefwefewf
+    content: wefwefewfwef
+  col_3:
+    content: efwfwefwef
+    headline: wefwefwefwef
 - template: signup-bar
   block: cta-bar
 - template: simple-footer
