@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: test
+  - link: "/ubuild-jekyll/test"
     link_text: test
   - link: "/"
     link_text: Home
